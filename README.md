@@ -28,13 +28,13 @@ Since $b\le2$, the ramp term $R(b)=\sum_n\Lambda(n)(b/n-1)_+$ of the general for
 
 ## Verification
 
-The executable certifies the strict numerical inequality. The asymptotic implication uses the written explicit-formula argument. A numerical threshold for the start of permanent positivity is open here.
+The executable certifies the strict numerical inequality. The asymptotic implication uses the written explicit-formula argument. A later proof gives strict positivity for every real $y>0$ at this dilation under RH. [All-scale proof](https://github.com/leecrossley/prime-band-151-100-all-scales/blob/ce7d8f07b426e529c47c6748a5c919faf3d7d8cb/README.md)
 
 ```sh
 bash verify-release.sh
 ```
 
-This checks the [SHA-256 manifest](SHA256SUMS), reruns the arithmetic and compares its output with the [recorded result](evidence/check.txt). It needs Python 3.9 or later and only the standard library. The recorded run used Python 3.9.6 on arm64 macOS. [Tagged publication](https://github.com/leecrossley/prime-band-151-100/releases/tag/v1.0.2)
+This checks the [SHA-256 manifest](SHA256SUMS), reruns the arithmetic and compares its output with the [recorded result](evidence/check.txt). It needs Python 3.9 or later and only the standard library. The recorded run used Python 3.9.6 on arm64 macOS. [Latest release](https://github.com/leecrossley/prime-band-151-100/releases/latest)
 
 ## Related results
 
