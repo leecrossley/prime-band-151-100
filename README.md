@@ -32,7 +32,7 @@ The executable certifies the strict numerical inequality. The asymptotic implica
 bash verify-release.sh
 ```
 
-This checks the [SHA-256 manifest](SHA256SUMS), reruns the arithmetic and compares its output with the [recorded result](evidence/check.txt). It needs Python 3.9 or later and only the standard library. The recorded run used Python 3.9.6 on arm64 macOS. [Tagged publication](https://github.com/leecrossley/prime-band-151-100/releases/tag/v1.0.1)
+This checks the [SHA-256 manifest](SHA256SUMS), reruns the arithmetic and compares its output with the [recorded result](evidence/check.txt). It needs Python 3.9 or later and only the standard library. The recorded run used Python 3.9.6 on arm64 macOS. [Tagged publication](https://github.com/leecrossley/prime-band-151-100/releases/tag/v1.0.2)
 
 ## Related results
 
