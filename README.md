@@ -1,5 +1,7 @@
 # Eventual positivity at dilation 151/100
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24410883.svg)](https://doi.org/10.5281/zenodo.24410883)
+
 For the window from $y$ to $2.2801y$ (dilation $b=151/100$), the weighted sum of primes is eventually below its predicted size, provided the Riemann hypothesis (RH) holds. The shortfall, divided by $\sqrt y$, stays above $3/1000$ in the limit.
 
 The margin is thin, and that is the point. This dilation sits only just above $3/2$, where the same family changes sign arbitrarily far out under RH and an independence hypothesis, so the two results show how sharply the behaviour switches.
